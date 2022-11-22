@@ -1,6 +1,13 @@
-#include<stdio.h>
+    #   include    <stdio.h    >
+    // this is single line comment
 
-int main(){
+   int main   (    )    {
 
-	return 0;
-}
+	return     0      ; 
+
+
+
+
+}     
+  
+  
